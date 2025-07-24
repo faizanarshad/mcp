@@ -1,0 +1,6 @@
+discord.py
+joblib
+pandas
+numpy
+scikit-learn
+python-dotenv 
