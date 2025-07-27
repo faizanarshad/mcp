@@ -3,4 +3,11 @@ joblib
 pandas
 numpy
 scikit-learn
-python-dotenv 
+python-dotenv
+shap
+flask
+fastapi
+uvicorn
+kivy
+werkzeug
+pydantic 
