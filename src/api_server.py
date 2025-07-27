@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException, Depends, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
-from pydantic import BaseModel, Field, validator
+from pydantic import BaseModel, Field, field_validator
 from typing import List, Dict, Optional
 import pandas as pd
 import joblib
@@ -79,9 +79,10 @@ class PredictionRequest(BaseModel):
     VLDL: float = Field(..., ge=0.1, le=50.0, description="VLDL level")
     BMI: float = Field(..., ge=15.0, le=50.0, description="Body Mass Index")
 
-    @validator('*')
-    def validate_ranges(cls, v, field):
-        feature_name = field.name
+    @field_validator('*')
+    @classmethod
+    def validate_ranges(cls, v, info):
+        feature_name = info.field_name
         if feature_name in FEATURE_RANGES:
             min_val, max_val = FEATURE_RANGES[feature_name]
             if v < min_val or v > max_val:
