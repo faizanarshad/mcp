@@ -1029,3 +1029,283 @@ asyncio.exceptions.TimeoutError
 2025-07-27 22:07:10,359 INFO: Command from faizanarshad_05574: !predict 0 50 4.7 46 4.9 4.2 0.9 2.4 1.4 0.5 24.0
 2025-07-27 22:07:53,745 INFO: Command from faizanarshad_05574: !status
 2025-07-27 22:08:10,349 INFO: Command from faizanarshad_05574: !stats
+2025-07-27 22:16:44,821 WARNING: PyNaCl is not installed, voice will NOT be supported
+2025-07-27 22:16:44,822 INFO: logging in using static token
+2025-07-27 22:16:47,559 INFO: Shard ID None has connected to Gateway (Session ID: db90f49ea4257e4797b15fa7c49831d0).
+2025-07-27 22:16:49,971 INFO: Bot started and ready.
+2025-07-27 22:17:00,878 INFO: Command from faizanarshad_05574: !help
+2025-07-27 22:17:00,891 INFO: Command from faizanarshad_05574: !help
+2025-07-27 22:17:13,827 INFO: Command from faizanarshad_05574: !stats
+2025-07-27 22:17:13,859 INFO: Command from faizanarshad_05574: !stats
+2025-07-27 22:17:31,204 INFO: Command from faizanarshad_05574: !predict 0 50 4.7 46 4.9 4.2 0.9 2.4 1.4 0.5 24.0
+2025-07-27 22:17:31,212 INFO: Command from faizanarshad_05574: !predict 0 50 4.7 46 4.9 4.2 0.9 2.4 1.4 0.5 24.0
+2025-07-27 22:17:58,597 INFO: Command from faizanarshad_05574: !explain 0 50 4.7 46 4.9 4.2 0.9 2.4 1.4 0.5 24.0
+2025-07-27 22:17:58,598 INFO: Command from faizanarshad_05574: !explain 0 50 4.7 46 4.9 4.2 0.9 2.4 1.4 0.5 24.0
+2025-07-27 22:17:59,101 ERROR: SHAP error: only integer scalar arrays can be converted to a scalar index
+2025-07-27 22:17:59,149 ERROR: SHAP error: only integer scalar arrays can be converted to a scalar index
+2025-07-27 22:18:10,557 INFO: Command from faizanarshad_05574: !stats
+2025-07-27 22:18:10,559 INFO: Command from faizanarshad_05574: !stats
+2025-07-27 22:25:35,438 INFO: Shard ID None has successfully RESUMED session db90f49ea4257e4797b15fa7c49831d0.
+2025-07-27 22:49:30,817 INFO: Shard ID None session has been invalidated.
+2025-07-27 22:49:37,293 INFO: Shard ID None has connected to Gateway (Session ID: 6b450b7be04497494cb014d7bf983fce).
+2025-07-27 22:49:39,932 INFO: Bot started and ready.
+2025-07-27 22:50:00,274 INFO: Shard ID None session has been invalidated.
+2025-07-27 22:50:07,113 INFO: Shard ID None has connected to Gateway (Session ID: 2ec51635c074ec3dc0df8418fa43f024).
+2025-07-27 22:50:09,669 INFO: Bot started and ready.
+2025-07-27 23:05:40,518 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:05:47,735 INFO: Shard ID None has connected to Gateway (Session ID: d3e857910e0f6173e316fdffe8d5a80b).
+2025-07-27 23:05:50,257 INFO: Bot started and ready.
+2025-07-27 23:05:51,688 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:05:58,273 INFO: Shard ID None has connected to Gateway (Session ID: e6e4edefb622bef731858f040fd9a7b3).
+2025-07-27 23:06:00,872 INFO: Bot started and ready.
+2025-07-27 23:22:15,327 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:22:22,425 INFO: Shard ID None has connected to Gateway (Session ID: 5b4ad1a4ba372a90310c81c09a9d84a3).
+2025-07-27 23:22:26,111 INFO: Bot started and ready.
+2025-07-27 23:22:26,526 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:22:33,188 INFO: Shard ID None has connected to Gateway (Session ID: 5055d387f2df621f0515dadde0292849).
+2025-07-27 23:22:35,854 INFO: Bot started and ready.
+2025-07-27 23:27:19,591 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:27:26,275 INFO: Shard ID None has connected to Gateway (Session ID: 3ea8fb0fd6ff535de79ae2b1db4ca302).
+2025-07-27 23:27:28,749 INFO: Bot started and ready.
+2025-07-27 23:27:30,569 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:27:37,144 INFO: Shard ID None has connected to Gateway (Session ID: 2fe6c9a9850a64924ec1be00da7fcd75).
+2025-07-27 23:27:39,620 INFO: Bot started and ready.
+2025-07-27 23:32:13,492 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:32:20,370 INFO: Shard ID None has connected to Gateway (Session ID: e036cc90c4465d4855339df05f544e91).
+2025-07-27 23:32:22,978 INFO: Bot started and ready.
+2025-07-27 23:32:25,177 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:32:33,145 INFO: Shard ID None has connected to Gateway (Session ID: 5d8b915319c164df867356a12cfaf455).
+2025-07-27 23:32:35,669 INFO: Bot started and ready.
+2025-07-27 23:37:07,275 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:37:14,037 INFO: Shard ID None has connected to Gateway (Session ID: c0dc88d2753cbabbae09bd7c4af92757).
+2025-07-27 23:37:16,545 INFO: Bot started and ready.
+2025-07-27 23:37:19,495 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:37:26,075 INFO: Shard ID None has connected to Gateway (Session ID: 4dd4e5993d8ff007dcad4906478d4ef3).
+2025-07-27 23:37:29,065 INFO: Bot started and ready.
+2025-07-27 23:42:13,261 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:42:19,801 INFO: Shard ID None has connected to Gateway (Session ID: 061bc3626c04db988bf8024d4d3dd332).
+2025-07-27 23:42:22,514 INFO: Bot started and ready.
+2025-07-27 23:42:42,541 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:42:48,991 INFO: Shard ID None has connected to Gateway (Session ID: dd4372200f2aea2203136606bcb2d922).
+2025-07-27 23:42:51,554 INFO: Bot started and ready.
+2025-07-27 23:47:07,637 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:47:14,058 INFO: Shard ID None has connected to Gateway (Session ID: 69be64e5c00007cecba3f475800ced9f).
+2025-07-27 23:47:16,711 INFO: Bot started and ready.
+2025-07-27 23:47:36,789 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:47:43,174 INFO: Shard ID None has connected to Gateway (Session ID: 548bbe3ab484ec770dc9fa69d2c4b3aa).
+2025-07-27 23:47:45,743 INFO: Bot started and ready.
+2025-07-27 23:52:30,683 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:52:37,610 INFO: Shard ID None has connected to Gateway (Session ID: cb315515cc7b07b83197d28e35d84440).
+2025-07-27 23:52:40,100 INFO: Bot started and ready.
+2025-07-27 23:52:42,710 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:52:49,469 INFO: Shard ID None has connected to Gateway (Session ID: bcb163a78b5d79d8f113ae3e619522d6).
+2025-07-27 23:52:51,974 INFO: Bot started and ready.
+2025-07-27 23:57:24,743 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:57:31,232 INFO: Shard ID None has connected to Gateway (Session ID: 881e9a32563e5a295425c8f1ecf3af31).
+2025-07-27 23:57:33,943 INFO: Bot started and ready.
+2025-07-27 23:57:37,299 INFO: Shard ID None session has been invalidated.
+2025-07-27 23:57:44,735 INFO: Shard ID None has connected to Gateway (Session ID: 0f525fcc4d793ff8e1333842d8539ef1).
+2025-07-27 23:57:47,292 INFO: Bot started and ready.
+2025-07-28 00:02:25,041 INFO: Shard ID None session has been invalidated.
+2025-07-28 00:02:31,904 INFO: Shard ID None has connected to Gateway (Session ID: 64b90b21c13d1cbae3c21ea429e3bb38).
+2025-07-28 00:02:34,420 INFO: Bot started and ready.
+2025-07-28 00:02:39,358 INFO: Shard ID None session has been invalidated.
+2025-07-28 00:02:46,572 INFO: Shard ID None has connected to Gateway (Session ID: f6abbb0820ada7218b063ace34ae18f2).
+2025-07-28 00:02:49,136 INFO: Bot started and ready.
+2025-07-28 00:30:41,526 INFO: Shard ID None session has been invalidated.
+2025-07-28 00:30:48,021 INFO: Shard ID None has connected to Gateway (Session ID: b38022febc64ecc33baa62c22f39b053).
+2025-07-28 00:30:50,648 INFO: Bot started and ready.
+2025-07-28 00:30:56,592 INFO: Shard ID None session has been invalidated.
+2025-07-28 00:31:03,454 INFO: Shard ID None has connected to Gateway (Session ID: fe237afd7e5258a94540f9170e85357e).
+2025-07-28 00:31:06,884 INFO: Bot started and ready.
+2025-07-28 00:37:47,176 INFO: Shard ID None session has been invalidated.
+2025-07-28 00:37:53,926 INFO: Shard ID None has connected to Gateway (Session ID: 3a5233dd2413b6af1e122f4a9ba7eee2).
+2025-07-28 00:37:56,407 INFO: Bot started and ready.
+2025-07-28 00:38:02,476 INFO: Shard ID None session has been invalidated.
+2025-07-28 00:38:09,174 INFO: Shard ID None has connected to Gateway (Session ID: 8b56c9e3623596ccaf1487403713a8a2).
+2025-07-28 00:38:12,429 INFO: Bot started and ready.
+2025-07-28 01:05:36,080 INFO: Shard ID None session has been invalidated.
+2025-07-28 01:05:42,493 INFO: Shard ID None has connected to Gateway (Session ID: 926712a0eaba31756de56ec976a02044).
+2025-07-28 01:05:45,152 INFO: Bot started and ready.
+2025-07-28 01:06:01,944 INFO: Shard ID None session has been invalidated.
+2025-07-28 01:06:08,554 INFO: Shard ID None has connected to Gateway (Session ID: d90acb950c338cf5f1dd7d270c11d2b2).
+2025-07-28 01:06:11,138 INFO: Bot started and ready.
+2025-07-28 01:38:57,621 INFO: Shard ID None session has been invalidated.
+2025-07-28 01:39:04,025 INFO: Shard ID None has connected to Gateway (Session ID: 58b88c32cbe7910a8106dc53d833ca9e).
+2025-07-28 01:39:06,605 INFO: Bot started and ready.
+2025-07-28 01:39:13,880 INFO: Shard ID None session has been invalidated.
+2025-07-28 01:39:20,395 INFO: Shard ID None has connected to Gateway (Session ID: 33e54281ee73eb23c136a15d5fe7e136).
+2025-07-28 01:39:23,061 INFO: Bot started and ready.
+2025-07-28 01:57:23,941 INFO: Shard ID None session has been invalidated.
+2025-07-28 01:57:30,341 INFO: Shard ID None has connected to Gateway (Session ID: ba767933f969da9dd320f2816a8b226d).
+2025-07-28 01:57:35,572 INFO: Bot started and ready.
+2025-07-28 01:57:40,217 INFO: Shard ID None session has been invalidated.
+2025-07-28 01:57:46,673 INFO: Shard ID None has connected to Gateway (Session ID: 1363f87e1ccdaa0d91083c9e467fa2b6).
+2025-07-28 01:57:49,403 INFO: Bot started and ready.
+2025-07-28 02:34:31,555 INFO: Shard ID None session has been invalidated.
+2025-07-28 02:34:38,044 INFO: Shard ID None has connected to Gateway (Session ID: 52e90a90a9b8b345b07f748829fc0247).
+2025-07-28 02:34:40,700 INFO: Bot started and ready.
+2025-07-28 02:34:57,336 INFO: Shard ID None session has been invalidated.
+2025-07-28 02:35:03,744 INFO: Shard ID None has connected to Gateway (Session ID: 41e821cdd0000e4e63b7ffa277dac8a0).
+2025-07-28 02:35:06,248 INFO: Bot started and ready.
+2025-07-28 03:12:31,117 INFO: Shard ID None session has been invalidated.
+2025-07-28 03:12:37,599 INFO: Shard ID None has connected to Gateway (Session ID: 88149fbdfca6c165470e6bafe4b744f4).
+2025-07-28 03:12:40,344 INFO: Bot started and ready.
+2025-07-28 03:12:46,745 INFO: Shard ID None session has been invalidated.
+2025-07-28 03:12:53,148 INFO: Shard ID None has connected to Gateway (Session ID: 61fdbc7248ca0fab56cf9403edeffdca).
+2025-07-28 03:12:55,893 INFO: Bot started and ready.
+2025-07-28 03:40:05,954 INFO: Shard ID None session has been invalidated.
+2025-07-28 03:40:12,899 INFO: Shard ID None has connected to Gateway (Session ID: f130b1902d3301a549cc8303101db695).
+2025-07-28 03:40:16,229 INFO: Bot started and ready.
+2025-07-28 03:40:21,470 INFO: Shard ID None session has been invalidated.
+2025-07-28 03:40:28,207 INFO: Shard ID None has connected to Gateway (Session ID: b0db36047aeb4168a2703fccb88eba78).
+2025-07-28 03:40:30,838 INFO: Bot started and ready.
+2025-07-28 03:58:12,464 INFO: Shard ID None session has been invalidated.
+2025-07-28 03:58:18,861 INFO: Shard ID None has connected to Gateway (Session ID: ca81970cc6b784db0af076d1c7854c81).
+2025-07-28 03:58:21,470 INFO: Bot started and ready.
+2025-07-28 03:58:28,577 INFO: Shard ID None session has been invalidated.
+2025-07-28 03:58:35,957 INFO: Shard ID None has connected to Gateway (Session ID: 10362aabb9f89eb2e6f64c1bf78de4ca).
+2025-07-28 03:58:38,613 INFO: Bot started and ready.
+2025-07-28 04:32:18,553 INFO: Shard ID None session has been invalidated.
+2025-07-28 04:32:24,962 INFO: Shard ID None has connected to Gateway (Session ID: 54fe6899cb01c55511540fcf30126041).
+2025-07-28 04:32:27,670 INFO: Bot started and ready.
+2025-07-28 04:32:36,276 INFO: Shard ID None session has been invalidated.
+2025-07-28 04:32:42,924 INFO: Shard ID None has connected to Gateway (Session ID: 5d53f2e724303a6969b586e182f1c509).
+2025-07-28 04:32:45,618 INFO: Bot started and ready.
+2025-07-28 04:40:49,527 INFO: Shard ID None session has been invalidated.
+2025-07-28 04:40:55,920 INFO: Shard ID None has connected to Gateway (Session ID: bcb3edb961c30d6b2af3850ef711a122).
+2025-07-28 04:40:58,423 INFO: Bot started and ready.
+2025-07-28 04:41:06,323 INFO: Shard ID None session has been invalidated.
+2025-07-28 04:41:13,166 INFO: Shard ID None has connected to Gateway (Session ID: c1cc588ad027c7bc24328049983660b5).
+2025-07-28 04:41:16,257 INFO: Bot started and ready.
+2025-07-28 05:17:40,550 INFO: Shard ID None session has been invalidated.
+2025-07-28 05:17:46,942 INFO: Shard ID None has connected to Gateway (Session ID: aec5de0f47b46b91520f6a007c7f6523).
+2025-07-28 05:17:49,487 INFO: Bot started and ready.
+2025-07-28 05:17:57,398 INFO: Shard ID None session has been invalidated.
+2025-07-28 05:18:04,400 INFO: Shard ID None has connected to Gateway (Session ID: a322f88b1bb5872bfc982c8934374fa5).
+2025-07-28 05:18:06,899 INFO: Bot started and ready.
+2025-07-28 05:41:52,728 INFO: Shard ID None session has been invalidated.
+2025-07-28 05:41:59,147 INFO: Shard ID None has connected to Gateway (Session ID: dbbdc9fa4a8f0ee596427a102c6d3721).
+2025-07-28 05:42:01,648 INFO: Bot started and ready.
+2025-07-28 05:42:17,359 INFO: Shard ID None session has been invalidated.
+2025-07-28 05:42:25,009 INFO: Shard ID None has connected to Gateway (Session ID: 014096d2a409a7ccb24bebfdd99557e7).
+2025-07-28 05:42:27,578 INFO: Bot started and ready.
+2025-07-28 05:59:59,275 INFO: Shard ID None session has been invalidated.
+2025-07-28 06:00:05,920 INFO: Shard ID None has connected to Gateway (Session ID: 7f9e53e2dcd9929bc8d2034d412cfe24).
+2025-07-28 06:00:09,164 INFO: Bot started and ready.
+2025-07-28 06:00:14,991 INFO: Shard ID None session has been invalidated.
+2025-07-28 06:00:21,543 INFO: Shard ID None has connected to Gateway (Session ID: de914e7d5c9bf397fbea854d6ba3c873).
+2025-07-28 06:00:24,418 INFO: Bot started and ready.
+2025-07-28 06:36:50,854 INFO: Shard ID None session has been invalidated.
+2025-07-28 06:36:57,313 INFO: Shard ID None has connected to Gateway (Session ID: 4278b0bb9b783d0472bef90b85f687b8).
+2025-07-28 06:36:59,976 INFO: Bot started and ready.
+2025-07-28 06:37:07,004 INFO: Shard ID None session has been invalidated.
+2025-07-28 06:37:14,362 INFO: Shard ID None has connected to Gateway (Session ID: 84d1a6d5761869e3f81a4a7ecbf88307).
+2025-07-28 06:37:17,400 INFO: Bot started and ready.
+2025-07-28 07:13:58,972 INFO: Shard ID None session has been invalidated.
+2025-07-28 07:14:05,427 INFO: Shard ID None has connected to Gateway (Session ID: f1f3ed0f3105e6326e0655e26341a0c2).
+2025-07-28 07:14:08,181 INFO: Bot started and ready.
+2025-07-28 07:14:23,236 INFO: Shard ID None session has been invalidated.
+2025-07-28 07:14:29,676 INFO: Shard ID None has connected to Gateway (Session ID: 8fa9035f1c745ed32efdc2627f3796b9).
+2025-07-28 07:14:32,322 INFO: Bot started and ready.
+2025-07-28 07:42:55,265 INFO: Shard ID None session has been invalidated.
+2025-07-28 07:43:01,727 INFO: Shard ID None has connected to Gateway (Session ID: 70c03a62c58e9616b93c786b8a31be91).
+2025-07-28 07:43:04,286 INFO: Bot started and ready.
+2025-07-28 07:43:20,197 INFO: Shard ID None session has been invalidated.
+2025-07-28 07:43:27,635 INFO: Shard ID None has connected to Gateway (Session ID: 4081c7e3ec076831158ccd8dd37bf099).
+2025-07-28 07:43:30,389 INFO: Bot started and ready.
+2025-07-28 08:00:41,179 INFO: Shard ID None session has been invalidated.
+2025-07-28 08:00:47,688 INFO: Shard ID None has connected to Gateway (Session ID: 7e908f6ee1df12d40317a580a62cc5fd).
+2025-07-28 08:00:50,541 INFO: Bot started and ready.
+2025-07-28 08:00:56,642 INFO: Shard ID None session has been invalidated.
+2025-07-28 08:01:03,172 INFO: Shard ID None has connected to Gateway (Session ID: f851ebb267c5058e3f7c7142263349ca).
+2025-07-28 08:01:05,847 INFO: Bot started and ready.
+2025-07-28 08:37:32,753 INFO: Shard ID None session has been invalidated.
+2025-07-28 08:37:39,116 INFO: Shard ID None has connected to Gateway (Session ID: 8369c6c8fdf800a20693529be4bf1007).
+2025-07-28 08:37:41,765 INFO: Bot started and ready.
+2025-07-28 08:37:49,143 INFO: Shard ID None session has been invalidated.
+2025-07-28 08:37:55,790 INFO: Shard ID None has connected to Gateway (Session ID: 857615b38b98be348c83d4034dc1949e).
+2025-07-28 08:37:58,411 INFO: Bot started and ready.
+2025-07-28 09:14:24,200 INFO: Shard ID None session has been invalidated.
+2025-07-28 09:14:30,663 INFO: Shard ID None has connected to Gateway (Session ID: 48bcc057c90e7c4118611674ec47c239).
+2025-07-28 09:14:33,326 INFO: Bot started and ready.
+2025-07-28 09:14:41,927 INFO: Shard ID None session has been invalidated.
+2025-07-28 09:14:48,899 INFO: Shard ID None has connected to Gateway (Session ID: e4d799fe45c0426279d8a12511901df6).
+2025-07-28 09:14:51,492 INFO: Bot started and ready.
+2025-07-28 09:44:02,372 INFO: Shard ID None session has been invalidated.
+2025-07-28 09:44:08,855 INFO: Shard ID None has connected to Gateway (Session ID: bce3f841d67ebf050ceb8c07cbc104af).
+2025-07-28 09:44:11,430 INFO: Bot started and ready.
+2025-07-28 09:44:25,374 INFO: Shard ID None session has been invalidated.
+2025-07-28 09:44:31,831 INFO: Shard ID None has connected to Gateway (Session ID: 983d033c2d964ea92f4ca2a4d8527106).
+2025-07-28 09:44:34,375 INFO: Bot started and ready.
+2025-07-28 10:00:44,232 INFO: Shard ID None session has been invalidated.
+2025-07-28 10:00:50,695 INFO: Shard ID None has connected to Gateway (Session ID: 8f82585348e890cc2a0cfca7cdc57f61).
+2025-07-28 10:00:53,623 INFO: Bot started and ready.
+2025-07-28 10:01:06,511 INFO: Shard ID None session has been invalidated.
+2025-07-28 10:01:13,381 INFO: Shard ID None has connected to Gateway (Session ID: 7a449dc4ec776a68171ac3e264d32813).
+2025-07-28 10:01:16,038 INFO: Bot started and ready.
+2025-07-28 10:37:59,512 INFO: Shard ID None session has been invalidated.
+2025-07-28 10:38:06,036 INFO: Shard ID None has connected to Gateway (Session ID: cf287dec1a4fd2c81259eb5c6d186596).
+2025-07-28 10:38:08,792 INFO: Bot started and ready.
+2025-07-28 10:38:18,039 INFO: Shard ID None session has been invalidated.
+2025-07-28 10:38:24,734 INFO: Shard ID None has connected to Gateway (Session ID: 4c2c829d24d5dcaf1463849c2b5c4b03).
+2025-07-28 10:38:27,396 INFO: Bot started and ready.
+2025-07-28 11:14:52,279 INFO: Shard ID None session has been invalidated.
+2025-07-28 11:14:58,775 INFO: Shard ID None has connected to Gateway (Session ID: 4610d8a086527d1780b1f4bac8b77b73).
+2025-07-28 11:15:02,265 INFO: Bot started and ready.
+2025-07-28 11:15:10,758 INFO: Shard ID None session has been invalidated.
+2025-07-28 11:15:17,239 INFO: Shard ID None has connected to Gateway (Session ID: b8745fa2b1b5e6fc036ab5c7ede179dd).
+2025-07-28 11:15:19,712 INFO: Bot started and ready.
+2025-07-28 11:45:00,016 INFO: Shard ID None session has been invalidated.
+2025-07-28 11:45:06,420 INFO: Shard ID None has connected to Gateway (Session ID: 4da5c2ff908afb25f6a9409c701af20a).
+2025-07-28 11:45:09,113 INFO: Bot started and ready.
+2025-07-28 11:45:23,841 INFO: Shard ID None session has been invalidated.
+2025-07-28 11:45:31,345 INFO: Shard ID None has connected to Gateway (Session ID: b2a6f53b550b775dabf2bd3d2520eab1).
+2025-07-28 11:45:33,887 INFO: Bot started and ready.
+2025-07-28 12:02:53,380 INFO: Shard ID None session has been invalidated.
+2025-07-28 12:02:59,875 INFO: Shard ID None has connected to Gateway (Session ID: f78a8bc17a7cdff46fcfd65a03e669a2).
+2025-07-28 12:03:03,335 INFO: Bot started and ready.
+2025-07-28 12:03:09,822 INFO: Shard ID None session has been invalidated.
+2025-07-28 12:03:16,284 INFO: Shard ID None has connected to Gateway (Session ID: ff1c6918ae7c8c533952c3b1285ad5d9).
+2025-07-28 12:03:18,912 INFO: Bot started and ready.
+2025-07-28 12:40:00,906 INFO: Shard ID None session has been invalidated.
+2025-07-28 12:40:07,507 INFO: Shard ID None has connected to Gateway (Session ID: d2bf80077aea2936b4b11c29536bfd88).
+2025-07-28 12:40:10,173 INFO: Bot started and ready.
+2025-07-28 12:40:25,919 INFO: Shard ID None session has been invalidated.
+2025-07-28 12:40:32,542 INFO: Shard ID None has connected to Gateway (Session ID: afdd5f173f564d6bddc97c86839bbf6e).
+2025-07-28 12:40:35,120 INFO: Bot started and ready.
+2025-07-28 12:53:58,561 INFO: Shard ID None session has been invalidated.
+2025-07-28 12:54:05,041 INFO: Shard ID None has connected to Gateway (Session ID: 6ea3b804a25c565a53e977bca5224f0a).
+2025-07-28 12:54:07,679 INFO: Bot started and ready.
+2025-07-28 12:54:14,678 INFO: Shard ID None session has been invalidated.
+2025-07-28 12:54:21,689 INFO: Shard ID None has connected to Gateway (Session ID: a9359786342c98a402ab1b3828dd88ef).
+2025-07-28 12:54:25,411 INFO: Bot started and ready.
+2025-07-28 13:12:51,168 INFO: Shard ID None session has been invalidated.
+2025-07-28 13:12:57,793 INFO: Shard ID None has connected to Gateway (Session ID: 7d59d2e3bdd24ec3f1f9cf21fccd4e80).
+2025-07-28 13:13:00,420 INFO: Bot started and ready.
+2025-07-28 13:13:07,075 INFO: Shard ID None session has been invalidated.
+2025-07-28 13:13:13,658 INFO: Shard ID None has connected to Gateway (Session ID: 672703f4b43e91a0c1fe33fdce369f47).
+2025-07-28 13:13:16,281 INFO: Bot started and ready.
+2025-07-28 14:35:21,762 INFO: Shard ID None session has been invalidated.
+2025-07-28 14:35:28,249 INFO: Shard ID None has connected to Gateway (Session ID: c0a0e5211a6c6c74c8cb52ebc58caf42).
+2025-07-28 14:35:30,922 INFO: Bot started and ready.
+2025-07-28 14:35:47,014 INFO: Shard ID None session has been invalidated.
+2025-07-28 14:35:53,506 INFO: Shard ID None has connected to Gateway (Session ID: ac08c9fc544edd8ac14ad361bac9539b).
+2025-07-28 14:35:56,080 INFO: Bot started and ready.
+2025-07-28 14:41:53,491 INFO: Shard ID None session has been invalidated.
+2025-07-28 14:41:59,982 INFO: Shard ID None has connected to Gateway (Session ID: 7247a3d55b6f83523582cfb94f55cf77).
+2025-07-28 14:42:02,516 INFO: Bot started and ready.
+2025-07-28 14:42:18,466 INFO: Shard ID None session has been invalidated.
+2025-07-28 14:42:24,955 INFO: Shard ID None has connected to Gateway (Session ID: 80c9289b2cd37eca899ae1e6242d6df1).
+2025-07-28 14:42:27,561 INFO: Bot started and ready.
+2025-07-28 15:06:19,830 INFO: Shard ID None has successfully RESUMED session 80c9289b2cd37eca899ae1e6242d6df1.
+2025-07-28 16:18:42,824 INFO: Shard ID None session has been invalidated.
+2025-07-28 16:18:49,349 INFO: Shard ID None has connected to Gateway (Session ID: 11f729b88a753375ef04d62347c9d8cd).
+2025-07-28 16:18:51,991 INFO: Bot started and ready.
+2025-07-28 16:19:02,377 INFO: Shard ID None session has been invalidated.
+2025-07-28 16:19:09,077 INFO: Shard ID None has connected to Gateway (Session ID: 7083b352b2525afe79accec9385c8bab).
+2025-07-28 16:19:11,885 INFO: Bot started and ready.
+2025-07-28 17:48:32,514 INFO: Shard ID None has successfully RESUMED session 7083b352b2525afe79accec9385c8bab.
+2025-07-28 17:53:29,440 INFO: Shard ID None has successfully RESUMED session 11f729b88a753375ef04d62347c9d8cd.
+2025-07-28 17:59:39,125 INFO: Shard ID None has successfully RESUMED session 7083b352b2525afe79accec9385c8bab.
+2025-07-28 18:03:42,972 INFO: Shard ID None has successfully RESUMED session 11f729b88a753375ef04d62347c9d8cd.
